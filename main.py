@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import bot
 
 if name == 'main':
-    updater = Updater(token='YOUR_TOKEN', use_context=True)
+    updater = Updater(token='5562112612:AAH7Sbz2iIAdoPknjv0FnuiNbiDa_5OFYQA', use_context=True)
     dispatcher = updater.dispatcher
     
     start_handler = CommandHandler('start', bot.start)
