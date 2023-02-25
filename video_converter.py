@@ -5,9 +5,9 @@ from pyrogram.types import Message
 import ffmpeg
 
 # Telegram API credentials
-api_id = YOUR_API_ID
-api_hash = 'YOUR_API_HASH'
-bot_token = 'YOUR_BOT_TOKEN'
+api_id = 7068313
+api_hash = 'd7446aca34e84b8539a1a8817630d1b5'
+bot_token = '5562112612:AAH7Sbz2iIAdoPknjv0FnuiNbiDa_5OFYQA'
 
 # Output format to convert to
 output_format = "mp4"
